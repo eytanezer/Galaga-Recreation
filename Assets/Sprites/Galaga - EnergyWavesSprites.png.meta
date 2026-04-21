@@ -1,0 +1,1178 @@
+fileFormatVersion: 2
+guid: 33ea91462cd384c66ac3a02d1009029f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6323945660100265212
+    second: Galaga - EnergyWavesSprites_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf44629721b23c750800000000000000
+      internalID: 6323945660100265212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 826
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79569844f6d534483b3686e3ee30ff7e
+      internalID: 716770165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 826
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531ce6010e8be41179bc55a9f6776fcf
+      internalID: 1785974125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 826
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b7fc534d36d4b1d852df1e7a57b938
+      internalID: -881407943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 818
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca5fd93f603b450aa6184314535917d
+      internalID: -299282221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 818
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d772bd8ff8a42589fdcaaeb344e5b3
+      internalID: -1340093487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 818
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4244dd2cb6045d1af32d3b060055a8
+      internalID: -1778957412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 818
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca40943a4f444373b99559064deae6e
+      internalID: -1363759604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41bc3f49604e43bd80e0a16096037bb
+      internalID: 1666351639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 810
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab81e7aa8f45f4ba1a90178093dab00a
+      internalID: 1841633022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 810
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7d0bf4f312d4cd4ae99d4abd1f5348
+      internalID: 1832405751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 810
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e3ed58c7b19484c88ba6ac823e25a6
+      internalID: -2123703146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55b0847d92824d749c0c3b660d9fb3c
+      internalID: 1122580873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 802
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c819163f934c4c0fa29ff45c5e37bf1
+      internalID: -813700068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 802
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04734a62d97644d1f9dd979e7638d6f6
+      internalID: 2015796105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 802
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f0ee033f66d45578d95cad862026f0
+      internalID: 1133248491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7901f1c01c9254bfe9d2915f56af38db
+      internalID: 1639867945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 794
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ba36fb582bd4edc8d922501ff23f4b
+      internalID: 807394279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 794
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4482aea64c84135a1790f94b83f4f4
+      internalID: -664851939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 794
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a80a5ca8e314462a63f05cb43ed64d
+      internalID: -1116736697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435eefd0a8f0a414db76d8af70800b18
+      internalID: -2100976024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 786
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338c428e73b3c4baaa2c0656e79cb7ae
+      internalID: 338615292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 786
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d26ba7b5a9d4bc09c78f3542ad4d15
+      internalID: 1425335224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 786
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa49ba96d6bc44d295c78265d5ed9ce
+      internalID: 1064748909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 778
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e90f44201604644b5ce6945349b26c
+      internalID: 233009874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 778
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd4229c1881d4bfaad2456078e77bdc
+      internalID: 1363800032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 778
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753ae753f26e2429fb364e3a8c44faef
+      internalID: -583448185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 778
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff001659e9754f3484d65d231098c50
+      internalID: -2036826512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fad75c242fd4f09b0c059f6e81729d
+      internalID: 92159224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 770
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b362d70357e4bbb8d133407c577e51
+      internalID: -738271659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 770
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6b77cf94d714380991a825c9fc20c4
+      internalID: -783267325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 770
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b066b881da9f411fb668715caba8f03
+      internalID: 1664493038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01c82b35e5f942c8b3319d8377fac2e
+      internalID: -1969497375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 762
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e380656cdb0a4883abe22a7900124a5
+      internalID: -1680344645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 762
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13b6119abb2f4c929d81a4e9da00624
+      internalID: 351069608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 762
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1625bec45d1834b2b8cf148d416328fd
+      internalID: 507794211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641b22ff46f75460ba0c45225ac12d66
+      internalID: -510163568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 754
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ec34e8371024c93ba6ef93226454cf
+      internalID: -894077899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 754
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df78b9c8f3fad42419f3ac3f8226ebe7
+      internalID: -2106963173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 746
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeb4333a602b4caebd2349be175bce2
+      internalID: -1931809447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 746
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a602bd7fa37747e4a928380d5a4e2e6
+      internalID: 771426050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 746
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da56bcb2955f640ebb182c272be8d870
+      internalID: 435063901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 746
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18e0f21d4d8e4ab78494ad219c0575b
+      internalID: -16183716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babafd2361bed49dbb746061506618b0
+      internalID: 244704835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 738
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40444b62f4b9643899edd47116c45f01
+      internalID: -2133334129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - EnergyWavesSprites_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 738
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f76f8bab04549cf9cf43ecb7bbb9dd
+      internalID: 403432689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dbeed3bce0c7b47b19a78277f15118c4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Galaga - EnergyWavesSprites_0: 6323945660100265212
+      Galaga - EnergyWavesSprites_1: 716770165
+      Galaga - EnergyWavesSprites_10: 1832405751
+      Galaga - EnergyWavesSprites_11: -2123703146
+      Galaga - EnergyWavesSprites_12: 1122580873
+      Galaga - EnergyWavesSprites_13: -813700068
+      Galaga - EnergyWavesSprites_14: 2015796105
+      Galaga - EnergyWavesSprites_15: 1133248491
+      Galaga - EnergyWavesSprites_16: 1639867945
+      Galaga - EnergyWavesSprites_17: 807394279
+      Galaga - EnergyWavesSprites_18: -664851939
+      Galaga - EnergyWavesSprites_19: -1116736697
+      Galaga - EnergyWavesSprites_2: 1785974125
+      Galaga - EnergyWavesSprites_20: -2100976024
+      Galaga - EnergyWavesSprites_21: 338615292
+      Galaga - EnergyWavesSprites_22: 1425335224
+      Galaga - EnergyWavesSprites_23: 1064748909
+      Galaga - EnergyWavesSprites_24: 233009874
+      Galaga - EnergyWavesSprites_25: 1363800032
+      Galaga - EnergyWavesSprites_26: -583448185
+      Galaga - EnergyWavesSprites_27: -2036826512
+      Galaga - EnergyWavesSprites_28: 92159224
+      Galaga - EnergyWavesSprites_29: -738271659
+      Galaga - EnergyWavesSprites_3: -881407943
+      Galaga - EnergyWavesSprites_30: -783267325
+      Galaga - EnergyWavesSprites_31: 1664493038
+      Galaga - EnergyWavesSprites_32: -1969497375
+      Galaga - EnergyWavesSprites_33: -1680344645
+      Galaga - EnergyWavesSprites_34: 351069608
+      Galaga - EnergyWavesSprites_35: 507794211
+      Galaga - EnergyWavesSprites_36: -510163568
+      Galaga - EnergyWavesSprites_37: -894077899
+      Galaga - EnergyWavesSprites_38: -2106963173
+      Galaga - EnergyWavesSprites_39: -1931809447
+      Galaga - EnergyWavesSprites_4: -299282221
+      Galaga - EnergyWavesSprites_40: 771426050
+      Galaga - EnergyWavesSprites_41: 435063901
+      Galaga - EnergyWavesSprites_42: -16183716
+      Galaga - EnergyWavesSprites_43: 244704835
+      Galaga - EnergyWavesSprites_44: -2133334129
+      Galaga - EnergyWavesSprites_45: 403432689
+      Galaga - EnergyWavesSprites_5: -1340093487
+      Galaga - EnergyWavesSprites_6: -1778957412
+      Galaga - EnergyWavesSprites_7: -1363759604
+      Galaga - EnergyWavesSprites_8: 1666351639
+      Galaga - EnergyWavesSprites_9: 1841633022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

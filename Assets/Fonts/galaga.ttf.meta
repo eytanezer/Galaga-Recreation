@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: abd78b2e109e34e9c89097e59df21328
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 8
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - galaga
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5c2f37e6a566b42719f57c896e27e7a4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

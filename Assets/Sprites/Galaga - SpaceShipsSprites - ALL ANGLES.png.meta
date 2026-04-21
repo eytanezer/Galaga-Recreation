@@ -1,0 +1,6159 @@
+fileFormatVersion: 2
+guid: a2dd650baea71404889f6ee07c6ef69a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7416585812820976116
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_0
+  - first:
+      213: 2108317597041455154
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_1
+  - first:
+      213: 5996452511726079835
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_2
+  - first:
+      213: -1272436530214667641
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_3
+  - first:
+      213: -3722944083694822114
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_4
+  - first:
+      213: -586503771197486257
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_5
+  - first:
+      213: 3956774851038638866
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_6
+  - first:
+      213: 48496951991213982
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_7
+  - first:
+      213: -6712372571077660887
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_8
+  - first:
+      213: 3192575504658314697
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_9
+  - first:
+      213: -8343966664101062656
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_10
+  - first:
+      213: 6247733974608003779
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_11
+  - first:
+      213: 6469367682689551716
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_12
+  - first:
+      213: 5320253908625313044
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_13
+  - first:
+      213: 5279619464432126587
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_14
+  - first:
+      213: -1899567392370262101
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_15
+  - first:
+      213: 1719336455697361854
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_16
+  - first:
+      213: -7821129014092283800
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_17
+  - first:
+      213: 6764934707358438067
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_18
+  - first:
+      213: 2140143888392361346
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_19
+  - first:
+      213: 8197081507861962699
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_20
+  - first:
+      213: 4728048922445884567
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_21
+  - first:
+      213: 7393249686260038367
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_22
+  - first:
+      213: -6577470435262017039
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_23
+  - first:
+      213: -2777679314077179532
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_24
+  - first:
+      213: 7175358508157083590
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_25
+  - first:
+      213: -5319890441151046168
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_26
+  - first:
+      213: -652710940258644420
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_27
+  - first:
+      213: -4149967475264354916
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_28
+  - first:
+      213: -7490848029879305696
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_29
+  - first:
+      213: 5394693757726025687
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_30
+  - first:
+      213: 671507601509907447
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_31
+  - first:
+      213: 8776777322496158098
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_32
+  - first:
+      213: 4480201885608286372
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_33
+  - first:
+      213: 6873183077000170351
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_34
+  - first:
+      213: 9192519030349744009
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_35
+  - first:
+      213: -8086862477753658414
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_36
+  - first:
+      213: 8850722352241125109
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_37
+  - first:
+      213: -8898249286326652911
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_38
+  - first:
+      213: -4286213784025956654
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_39
+  - first:
+      213: -5659017121918655376
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_40
+  - first:
+      213: -333274884116039192
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_41
+  - first:
+      213: 2748463610333766305
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_42
+  - first:
+      213: 5210837741622000163
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_43
+  - first:
+      213: 6823282450034676811
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_44
+  - first:
+      213: 8105595686564087702
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_45
+  - first:
+      213: 5753795166792528338
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_46
+  - first:
+      213: -7438040759429915678
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_47
+  - first:
+      213: 8074650014629847088
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_48
+  - first:
+      213: 8798860798714268906
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_49
+  - first:
+      213: -6006028283470692348
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_50
+  - first:
+      213: -4207419683770026170
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_51
+  - first:
+      213: -3789266278320046601
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_52
+  - first:
+      213: -4178609534912352637
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_53
+  - first:
+      213: -278511502188087890
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_54
+  - first:
+      213: -8333075012967698355
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_55
+  - first:
+      213: 7349470986800168425
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_56
+  - first:
+      213: -3850569231503613558
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_57
+  - first:
+      213: 2482568100435932562
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_58
+  - first:
+      213: -283195522334181869
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_59
+  - first:
+      213: 4025053051991718194
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_60
+  - first:
+      213: -414705959339400228
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_61
+  - first:
+      213: 3292867102464485023
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_62
+  - first:
+      213: 5901314661662418289
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_63
+  - first:
+      213: 7754940266904622481
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_64
+  - first:
+      213: 7274685160359355871
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_65
+  - first:
+      213: -1767125401902096985
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_66
+  - first:
+      213: -5774475526816517110
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_67
+  - first:
+      213: 6651450146963265353
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_68
+  - first:
+      213: -6198744752890970967
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_69
+  - first:
+      213: 4346002051176988735
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_70
+  - first:
+      213: -1894230966797293922
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_71
+  - first:
+      213: 7177427779760212793
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_72
+  - first:
+      213: -8660516700117951450
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_73
+  - first:
+      213: -3394532795247296074
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_74
+  - first:
+      213: 4928747094491635338
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_75
+  - first:
+      213: 8923778666842365877
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_76
+  - first:
+      213: -986315022077011934
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_77
+  - first:
+      213: -5087791804426287013
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_78
+  - first:
+      213: -3345785196904894221
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_79
+  - first:
+      213: 1323767544793969400
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_80
+  - first:
+      213: -2936196478747692097
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_81
+  - first:
+      213: 5228924402445824391
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_82
+  - first:
+      213: 2267965125358753434
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_83
+  - first:
+      213: 6563656425190406029
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_84
+  - first:
+      213: 8904642204530539953
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_85
+  - first:
+      213: 2781535157184345312
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_86
+  - first:
+      213: -293934466780976969
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_87
+  - first:
+      213: -5863157638921131473
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_88
+  - first:
+      213: 9108934289514958602
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_89
+  - first:
+      213: -126754880641787971
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_90
+  - first:
+      213: 4098923887587174255
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_91
+  - first:
+      213: -2196464313002022336
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_92
+  - first:
+      213: -1371895688600189925
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_93
+  - first:
+      213: -5096838069544034539
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_94
+  - first:
+      213: -2181843166347848836
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_95
+  - first:
+      213: 6266076595752295307
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_96
+  - first:
+      213: 873359603159895781
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_97
+  - first:
+      213: -8578302933008323481
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_98
+  - first:
+      213: 1447619909405667986
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_99
+  - first:
+      213: -6150061339225524765
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_100
+  - first:
+      213: -7464147719068058399
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_101
+  - first:
+      213: -707632510720274480
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_102
+  - first:
+      213: 26394653852116162
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_103
+  - first:
+      213: 5086552022506317680
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_104
+  - first:
+      213: 2931940780313576802
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_105
+  - first:
+      213: -1330086380702066493
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_106
+  - first:
+      213: -3246615951595946052
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_107
+  - first:
+      213: -6910490981837426698
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_108
+  - first:
+      213: -5335082726998967047
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_109
+  - first:
+      213: 327535998666474165
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_110
+  - first:
+      213: -9033742603578030904
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_111
+  - first:
+      213: -7544823552216386070
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_112
+  - first:
+      213: 2236013297693629773
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_113
+  - first:
+      213: 5535225485783755240
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_114
+  - first:
+      213: 5405981542108580820
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_115
+  - first:
+      213: -8911236510530686090
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_116
+  - first:
+      213: 6035289809023261794
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_117
+  - first:
+      213: -8200845318120606370
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_118
+  - first:
+      213: 1822132781026155489
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_119
+  - first:
+      213: -3299961462526431275
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_120
+  - first:
+      213: 1720874998370942547
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_121
+  - first:
+      213: 873615139968648226
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_122
+  - first:
+      213: -4329229140677647459
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_123
+  - first:
+      213: 4614946032678743016
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_124
+  - first:
+      213: 5685404444526585485
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_125
+  - first:
+      213: 8594057086411118739
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_126
+  - first:
+      213: 705213827949036283
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_127
+  - first:
+      213: -6731295711936295124
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_128
+  - first:
+      213: 6284605689644835374
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_129
+  - first:
+      213: -1703103120253563241
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_130
+  - first:
+      213: -3569928770634946559
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_131
+  - first:
+      213: -2736190559406078673
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_132
+  - first:
+      213: -6084900920492840550
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_133
+  - first:
+      213: 1303928240791052847
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_134
+  - first:
+      213: 6175989022422121443
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_135
+  - first:
+      213: -8957524267303943840
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_136
+  - first:
+      213: 5652456469324509700
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_137
+  - first:
+      213: -4550723827579217343
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_138
+  - first:
+      213: -960013875160542239
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_139
+  - first:
+      213: -4482776928425693880
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_140
+  - first:
+      213: 6043304612911654221
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_141
+  - first:
+      213: -1544997338828551547
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_142
+  - first:
+      213: -2515913960407831099
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_143
+  - first:
+      213: 1607643625580258176
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_144
+  - first:
+      213: 1916195897610724757
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_145
+  - first:
+      213: 8666567978908774421
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_146
+  - first:
+      213: -1962975521935830881
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_147
+  - first:
+      213: -8663231922473628347
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_148
+  - first:
+      213: -3290478916959987895
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_149
+  - first:
+      213: 3941788804786420515
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_150
+  - first:
+      213: 384268647176686861
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_151
+  - first:
+      213: -3953293003575373630
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_152
+  - first:
+      213: -4309002986790582697
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_153
+  - first:
+      213: -6188063099766843740
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_154
+  - first:
+      213: -2113544586443283675
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_155
+  - first:
+      213: -3771771652765839663
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_156
+  - first:
+      213: -2394812617351133354
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_157
+  - first:
+      213: 4441286011401919723
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_158
+  - first:
+      213: -2885548482450304226
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_159
+  - first:
+      213: -3049475611107430490
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_160
+  - first:
+      213: -3183833979087920026
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_161
+  - first:
+      213: 3717215502446969184
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_162
+  - first:
+      213: 6021654058349401646
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_163
+  - first:
+      213: -3806971524246166078
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_164
+  - first:
+      213: 6319606872161705234
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_165
+  - first:
+      213: 7288940192709065869
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_166
+  - first:
+      213: -5331189309779221330
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_167
+  - first:
+      213: 2107409711301138092
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_168
+  - first:
+      213: 7329273240470782288
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_169
+  - first:
+      213: -7500043495761407234
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_170
+  - first:
+      213: -6904933363555250916
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_171
+  - first:
+      213: -3193583119708133695
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_172
+  - first:
+      213: -468280068842627115
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_173
+  - first:
+      213: -4676344869907314811
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_174
+  - first:
+      213: -3102402477531649680
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_175
+  - first:
+      213: -1418152273014047415
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_176
+  - first:
+      213: -8910329085987440606
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_177
+  - first:
+      213: 7806825246171655397
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_178
+  - first:
+      213: -3413460419129861267
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_179
+  - first:
+      213: -8715952353477657472
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_180
+  - first:
+      213: -428602328986916600
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_181
+  - first:
+      213: -7455782280037139527
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_182
+  - first:
+      213: 5504827544517815226
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_183
+  - first:
+      213: -313107494667385235
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_184
+  - first:
+      213: 6023965195641296428
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_185
+  - first:
+      213: -713216965972488259
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_186
+  - first:
+      213: -3319836138670209731
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_187
+  - first:
+      213: -8527654319584812267
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_188
+  - first:
+      213: 2461780130599962851
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_189
+  - first:
+      213: -8378375041479380700
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_190
+  - first:
+      213: -5143272105019471928
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_191
+  - first:
+      213: -1480558990872468027
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_192
+  - first:
+      213: -7448017744796235073
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_193
+  - first:
+      213: 4605836739354808210
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_194
+  - first:
+      213: -4048116424340024763
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_195
+  - first:
+      213: -7230928291167717229
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_196
+  - first:
+      213: 3856268718268239844
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_197
+  - first:
+      213: -3277711060694041854
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_198
+  - first:
+      213: 9120695541661562675
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_199
+  - first:
+      213: -2913050357746075256
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_200
+  - first:
+      213: 2318269814267788576
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_201
+  - first:
+      213: -2002863967656710239
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_202
+  - first:
+      213: 3416441019641482050
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_203
+  - first:
+      213: -6620949045415983884
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_204
+  - first:
+      213: 3617681976484528337
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_205
+  - first:
+      213: -4110395943573614163
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_206
+  - first:
+      213: -6921066999472634966
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_207
+  - first:
+      213: -535273327425287274
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_208
+  - first:
+      213: -5230093122329262808
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_209
+  - first:
+      213: -3958027710588283383
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_210
+  - first:
+      213: 408321920481646449
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_211
+  - first:
+      213: -6233651438557655402
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_212
+  - first:
+      213: 4192261039815231065
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_213
+  - first:
+      213: 4079657572215497362
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_214
+  - first:
+      213: -5828943247720885203
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_215
+  - first:
+      213: 5924973283222361750
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_216
+  - first:
+      213: 8864985362533580743
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_217
+  - first:
+      213: 8201130463361059119
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_218
+  - first:
+      213: -5888871194124499920
+    second: Galaga - SpaceShipsSprites - ALL ANGLES_219
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1656380810de660800000000000000
+      internalID: 7416585812820976116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2307c552faf324d10800000000000000
+      internalID: 2108317597041455154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f8ee1f9cda73350800000000000000
+      internalID: 5996452511726079835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78af259a7b5675ee0800000000000000
+      internalID: -1272436530214667641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d5ab4b412755cc0800000000000000
+      internalID: -3722944083694822114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bc8527de15cd7f0800000000000000
+      internalID: -586503771197486257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2137b5c53c949e630800000000000000
+      internalID: 3956774851038638866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f102c88bb4ca000800000000000000
+      internalID: 48496951991213982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f27d4d5bcd8d2a0800000000000000
+      internalID: -6712372571077660887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5b5c9a18e4e4c20800000000000000
+      internalID: 3192575504658314697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0081e88f686443c80800000000000000
+      internalID: -8343966664101062656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c246afa2f864b650800000000000000
+      internalID: 6247733974608003779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d4a1891afc7c950800000000000000
+      internalID: 6469367682689551716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dce72fdb655d940800000000000000
+      internalID: 5320253908625313044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a07b62ee9f44940800000000000000
+      internalID: 5279619464432126587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baffade558163a5e0800000000000000
+      internalID: -1899567392370262101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb6833a56f4cd710800000000000000
+      internalID: 1719336455697361854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860478c8994c57390800000000000000
+      internalID: -7821129014092283800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b29fc03640e1ed50800000000000000
+      internalID: 6764934707358438067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28599db078153bd10800000000000000
+      internalID: 2140143888392361346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf190f8332e1c170800000000000000
+      internalID: 8197081507861962699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c2e07d1776d9140800000000000000
+      internalID: 4728048922445884567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda3c452b691a9660800000000000000
+      internalID: 7393249686260038367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1d291fc7128b4a0800000000000000
+      internalID: -6577470435262017039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471aa707163b379d0800000000000000
+      internalID: -2777679314077179532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 818
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf97c6eb8ef39360800000000000000
+      internalID: 7175358508157083590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed123b64d3fb26b0800000000000000
+      internalID: -5319890441151046168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e4fd8abda11f6f0800000000000000
+      internalID: -652710940258644420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c958177919a5866c0800000000000000
+      internalID: -4149967475264354916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02afb90b7692b0890800000000000000
+      internalID: -7490848029879305696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7e64de36dcdda40800000000000000
+      internalID: 5394693757726025687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbf8f31b9ca15900800000000000000
+      internalID: 671507601509907447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299661439706dc970800000000000000
+      internalID: 8776777322496158098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a897b9b0efdc2e30800000000000000
+      internalID: 4480201885608286372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b42d4c793726f50800000000000000
+      internalID: 6873183077000170351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987c303aa53629f70800000000000000
+      internalID: 9192519030349744009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3de0a2c61b5cf80800000000000000
+      internalID: -8086862477753658414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f621f2161514da70800000000000000
+      internalID: 8850722352241125109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11070a54b61138480800000000000000
+      internalID: -8898249286326652911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2deffb3d54f4484c0800000000000000
+      internalID: -4286213784025956654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0746f2e09e12771b0800000000000000
+      internalID: -5659017121918655376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e934b73248ff5bf0800000000000000
+      internalID: -333274884116039192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a228047711842620800000000000000
+      internalID: 2748463610333766305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32af39b515d905840800000000000000
+      internalID: 5210837741622000163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44597cac3b21be50800000000000000
+      internalID: 6823282450034676811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_45
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6974796e45cdc7070800000000000000
+      internalID: 8105595686564087702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d13703283699df40800000000000000
+      internalID: 5753795166792528338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb9d457655c6c890800000000000000
+      internalID: -7438040759429915678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_48
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0306d9f286bee0070800000000000000
+      internalID: 8074650014629847088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec497f2745db1a70800000000000000
+      internalID: 8798860798714268906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400c7c4f81d46aca0800000000000000
+      internalID: -6006028283470692348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647b6e7e61e3c95c0800000000000000
+      internalID: -4207419683770026170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdfd517562d96bc0800000000000000
+      internalID: -3789266278320046601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e2d7864c89206c0800000000000000
+      internalID: -4178609534912352637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5f73ea347822cf0800000000000000
+      internalID: -278511502188087890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40706d1d68fa5c80800000000000000
+      internalID: -8333075012967698355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed734f5ce09ef560800000000000000
+      internalID: 7349470986800168425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81ad256fa7009ac0800000000000000
+      internalID: -3850569231503613558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295333db88ad37220800000000000000
+      internalID: 2482568100435932562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3163a414c23e11cf0800000000000000
+      internalID: -283195522334181869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2397116dc6cdbd730800000000000000
+      internalID: 4025053051991718194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3665f802bae3af0800000000000000
+      internalID: -414705959339400228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9627feee2d92bd20800000000000000
+      internalID: 3292867102464485023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17561341b6ea5e150800000000000000
+      internalID: 5901314661662418289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1951937d5151f9b60800000000000000
+      internalID: 7754940266904622481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd566044c9fd4f460800000000000000
+      internalID: 7274685160359355871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad5e024fc8e977e0800000000000000
+      internalID: -1767125401902096985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a043ae35a11fcdfa0800000000000000
+      internalID: -5774475526816517110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94717f2faa2be4c50800000000000000
+      internalID: 6651450146963265353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_69
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acfd965d72a9f9a0800000000000000
+      internalID: -6198744752890970967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f300685e6d9105c30800000000000000
+      internalID: 4346002051176988735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_71
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96a085c8f656b5e0800000000000000
+      internalID: -1894230966797293922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_72
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bc0adb9885b9360800000000000000
+      internalID: 7177427779760212793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_73
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c912652f9afc780800000000000000
+      internalID: -8660516700117951450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_74
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b10fd0686234e0d0800000000000000
+      internalID: -3394532795247296074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_75
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e99ea6e5d666440800000000000000
+      internalID: 4928747094491635338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf1953da61a7db70800000000000000
+      internalID: 8923778666842365877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_77
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 786
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228d77096b7ef42f0800000000000000
+      internalID: -986315022077011934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5807066f488469b0800000000000000
+      internalID: -5087791804426287013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f039b317126191d0800000000000000
+      internalID: -3345785196904894221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2b2a08197fe5210800000000000000
+      internalID: 1323767544793969400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3bd75fbd88047d0800000000000000
+      internalID: -2936196478747692097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781b72d3a0fd09840800000000000000
+      internalID: 5228924402445824391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a969bfbe34e697f10800000000000000
+      internalID: 2267965125358753434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d873f233ebac61b50800000000000000
+      internalID: 6563656425190406029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd7efcf7e4a39b70800000000000000
+      internalID: 8904642204530539953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4bb3efc7ff99620800000000000000
+      internalID: 2781535157184345312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8a648e82cbbebf0800000000000000
+      internalID: -293934466780976969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aecf51131e1aea0800000000000000
+      internalID: -5863157638921131473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_89
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f0ae0a97f696e70800000000000000
+      internalID: 9108934289514958602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db79ccd8b1dad3ef0800000000000000
+      internalID: -126754880641787971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_91
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f672ff80f8d42e830800000000000000
+      internalID: 4098923887587174255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_92
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a21bd38579481e0800000000000000
+      internalID: -2196464313002022336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_93
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14881cc32c06fce0800000000000000
+      internalID: -1371895688600189925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fd32ba7c46449b0800000000000000
+      internalID: -5096838069544034539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_95
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73193a333988b1e0800000000000000
+      internalID: -2181843166347848836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b5439f67395f650800000000000000
+      internalID: 6266076595752295307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_97
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee858b8eebce1c00800000000000000
+      internalID: 873359603159895781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ce856aeeeb3f880800000000000000
+      internalID: -8578302933008323481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_99
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29278e543aaf61410800000000000000
+      internalID: 1447619909405667986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_100
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e57990ebc796aaa0800000000000000
+      internalID: -6150061339225524765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_101
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecf7ed32350a6890800000000000000
+      internalID: -7464147719068058399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df000f0bfbfd26f0800000000000000
+      internalID: -707632510720274480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 770
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c423de3cc5cd5000800000000000000
+      internalID: 26394653852116162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077a8016d10179640800000000000000
+      internalID: 5086552022506317680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26582190b9850b820800000000000000
+      internalID: 2931940780313576802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c81baddb759a8de0800000000000000
+      internalID: -1330086380702066493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfb10b4ef3b1f2d0800000000000000
+      internalID: -3246615951595946052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff2a0cb0110910a0800000000000000
+      internalID: -6910490981837426698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc77e9b68af5f5b0800000000000000
+      internalID: -5335082726998967047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b20ba36144ab8400800000000000000
+      internalID: 327535998666474165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c44b6107f2b1a280800000000000000
+      internalID: -9033742603578030904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5342514f66b4790800000000000000
+      internalID: -7544823552216386070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_113
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d14125f3ae70f10800000000000000
+      internalID: 2236013297693629773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e964df904211dc40800000000000000
+      internalID: 5535225485783755240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db43b70297e50b40800000000000000
+      internalID: 5405981542108580820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673b3508b9de45480800000000000000
+      internalID: -8911236510530686090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_117
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cdd5fda18a1c350800000000000000
+      internalID: 6035289809023261794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_118
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55fe7312aeb03e80800000000000000
+      internalID: -8200845318120606370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_119
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb98aa3c14894910800000000000000
+      internalID: 1822132781026155489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df22a5a88e2432d0800000000000000
+      internalID: -3299961462526431275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_121
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e30c481b6c1e710800000000000000
+      internalID: 1720874998370942547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_122
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2240c385754bf1c00800000000000000
+      internalID: 873615139968648226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_123
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93a3a6a80d7be3c0800000000000000
+      internalID: -4329229140677647459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb2a6737f49b0040800000000000000
+      internalID: 4614946032678743016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_125
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d862f60483d96ee40800000000000000
+      internalID: 5685404444526585485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_126
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39896f60369344770800000000000000
+      internalID: 8594057086411118739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_127
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf288997d3c69c900800000000000000
+      internalID: 705213827949036283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f4de3c632a592a0800000000000000
+      internalID: -6731295711936295124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_129
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 754
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22eda4d397673750800000000000000
+      internalID: 6284605689644835374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e4d6d4cbc5d58e0800000000000000
+      internalID: -1703103120253563241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_131
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1086bd882b0157ec0800000000000000
+      internalID: -3569928770634946559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25c2d4ee29170ad0800000000000000
+      internalID: -2736190559406078673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_133
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99a39c1ad61e8ba0800000000000000
+      internalID: -6084900920492840550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2263f493db781210800000000000000
+      internalID: 1303928240791052847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_135
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebbe2a4b4585b550800000000000000
+      internalID: 6175989022422121443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_136
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061486c432b70b380800000000000000
+      internalID: -8957524267303943840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_137
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402327af53f817e40800000000000000
+      internalID: 5652456469324509700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a1c322ac498d0c0800000000000000
+      internalID: -4550723827579217343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_139
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e31c9787785da2f0800000000000000
+      internalID: -960013875160542239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84daed5622af9c1c0800000000000000
+      internalID: -4482776928425693880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_141
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d452412d6812ed350800000000000000
+      internalID: 6043304612911654221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a43382b111f8ae0800000000000000
+      internalID: -1544997338828551547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_143
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cde178359da51dd0800000000000000
+      internalID: -2515913960407831099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_144
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083e12c1c5f7f4610800000000000000
+      internalID: 1607643625580258176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_145
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595e5253402b79a10800000000000000
+      internalID: 1916195897610724757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_146
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510f1acc8a5d54870800000000000000
+      internalID: 8666567978908774421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_147
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f905a30c92c12c4e0800000000000000
+      internalID: -1962975521935830881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_148
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d822e577406c780800000000000000
+      internalID: -8663231922473628347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_149
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94710b5dbded552d0800000000000000
+      internalID: -3290478916959987895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bf7e0980c04b630800000000000000
+      internalID: 3941788804786420515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d49457c42355500800000000000000
+      internalID: 384268647176686861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_152
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c05adc65f41329c0800000000000000
+      internalID: -3953293003575373630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_153
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75600441d985334c0800000000000000
+      internalID: -4309002986790582697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_154
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6d1b285659f1aa0800000000000000
+      internalID: -6188063099766843740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_155
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 738
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523291c856e2ba2e0800000000000000
+      internalID: -2113544586443283675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de010f5aa9f7abc0800000000000000
+      internalID: -3771771652765839663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_157
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657892fdc9ae3ced0800000000000000
+      internalID: -2394812617351133354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_158
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becd58fa81e92ad30800000000000000
+      internalID: 4441286011401919723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_159
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13d16981f874f7d0800000000000000
+      internalID: -2885548482450304226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af69b8a6161ea5d0800000000000000
+      internalID: -3049475611107430490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_161
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66465ac5ddfb0d3d0800000000000000
+      internalID: -3183833979087920026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0614de80ec3369330800000000000000
+      internalID: 3717215502446969184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_163
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2694344676319350800000000000000
+      internalID: 6021654058349401646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5a743a19bea2bc0800000000000000
+      internalID: -3806971524246166078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_165
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dd05fa7f0c3b750800000000000000
+      internalID: 6319606872161705234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_166
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cbd7f9c74872560800000000000000
+      internalID: 7288940192709065869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_167
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4ef30919fc306b0800000000000000
+      internalID: -5331189309779221330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6105687f50f3d10800000000000000
+      internalID: 2107409711301138092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_169
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05189081e2fc6b560800000000000000
+      internalID: 7329273240470782288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_170
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef299237d2e7ae790800000000000000
+      internalID: -7500043495761407234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_171
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dcb8390bfbc20a0800000000000000
+      internalID: -6904933363555250916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_172
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6ec1da21d1ea3d0800000000000000
+      internalID: -3193583119708133695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_173
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df5d3922c55089f0800000000000000
+      internalID: -468280068842627115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58744fdfd194a1fb0800000000000000
+      internalID: -4676344869907314811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_175
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0792f68426d02f4d0800000000000000
+      internalID: -3102402477531649680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_176
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94db5997506b15ce0800000000000000
+      internalID: -1418152273014047415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_177
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22833edb7e6285480800000000000000
+      internalID: -8910329085987440606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_178
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecec95f23a675c60800000000000000
+      internalID: 7806825246171655397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_179
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b98e685d3f0a0d0800000000000000
+      internalID: -3413460419129861267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_180
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cfbbb7387ba0780800000000000000
+      internalID: -8715952353477657472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_181
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80964ded37c4d0af0800000000000000
+      internalID: -428602328986916600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbfbbbc48db78890800000000000000
+      internalID: -7455782280037139527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_183
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb25c46c73156c40800000000000000
+      internalID: 5504827544517815226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6686db746e97abf0800000000000000
+      internalID: -313107494667385235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_185
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c261489dd6c699350800000000000000
+      internalID: 6023965195641296428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_186
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf8d6fb2f42a16f0800000000000000
+      internalID: -713216965972488259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_187
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35ce020f929de1d0800000000000000
+      internalID: -3319836138670209731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_188
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51362d9e39fa7a980800000000000000
+      internalID: -8527654319584812267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_189
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e886875cfff92220800000000000000
+      internalID: 2461780130599962851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_190
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4217f915a480abb80800000000000000
+      internalID: -8378375041479380700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_191
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7832d454d6f98b0800000000000000
+      internalID: -5143272105019471928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_192
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c52900317ff37be0800000000000000
+      internalID: -1480558990872468027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_193
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba4d98825353a890800000000000000
+      internalID: -7448017744796235073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_194
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fcfa69c183bef30800000000000000
+      internalID: 4605836739354808210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_195
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542d9c55f8332d7c0800000000000000
+      internalID: -4048116424340024763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_196
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39830a0c70596ab90800000000000000
+      internalID: -7230928291167717229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef44d6c7f7348530800000000000000
+      internalID: 3856268718268239844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_198
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b76f6082b3382d0800000000000000
+      internalID: -3277711060694041854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_199
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337f9398548339e70800000000000000
+      internalID: 9120695541661562675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_200
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88978b53224c297d0800000000000000
+      internalID: -2913050357746075256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_201
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d31f40d162c2020800000000000000
+      internalID: 2318269814267788576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af646245d56434e0800000000000000
+      internalID: -2002863967656710239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_203
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bcdcb9103a96f20800000000000000
+      internalID: 3416441019641482050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_204
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4c4082ce9ad14a0800000000000000
+      internalID: -6620949045415983884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_205
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d081be1796943230800000000000000
+      internalID: 3617681976484528337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_206
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da19619caa0f4f6c0800000000000000
+      internalID: -4110395943573614163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_207
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 706
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa341cdbb3e63ff90800000000000000
+      internalID: -6921066999472634966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b0315aeb35298f0800000000000000
+      internalID: -535273327425287274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_209
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825c955f30afa67b0800000000000000
+      internalID: -5230093122329262808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_210
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9069b3b84c24219c0800000000000000
+      internalID: -3958027710588283383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_211
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17750509f96aaa500800000000000000
+      internalID: 408321920481646449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e0b2f3b0f9d79a0800000000000000
+      internalID: -6233651438557655402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_213
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95685e34437ed2a30800000000000000
+      internalID: 4192261039815231065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_214
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292232d62fadd9830800000000000000
+      internalID: 4079657572215497362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_215
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d245fafcffe6b1fa0800000000000000
+      internalID: -5828943247720885203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_216
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696162a2fcbb93250800000000000000
+      internalID: 5924973283222361750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_217
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cff9d0f731c60b70800000000000000
+      internalID: 8864985362533580743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_218
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29454974b440d170800000000000000
+      internalID: 8201130463361059119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_219
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034cd2a79d6864ea0800000000000000
+      internalID: -5888871194124499920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_220
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7a06fc072094cedb077327c2e4dbaf
+      internalID: -73857263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_221
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd9463e857e84526a759defdefeadb1
+      internalID: 168563720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_222
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e12770b10b9c494b92055e0bee1bf65
+      internalID: 1427401075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_223
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ed42fc741b44903b183ad8d46ee112
+      internalID: -1614440607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_224
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4072c61795d9e4d3494fd79f4e006755
+      internalID: -658579299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_225
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972f29f5b951c43e2abdd26817d80982
+      internalID: 249018053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_226
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81342382fa3d2474682a039366800dd0
+      internalID: 867374895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_227
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ed06b7109434b2fbc0069854d07605
+      internalID: 107301667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_228
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093c31176ed514830b9f502a8c81adb1
+      internalID: 205178110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_229
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30407df904e0a49709cd1aa28127d558
+      internalID: 1034933047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_230
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6418ee0d890064a1da4194c897e426f2
+      internalID: 1498940142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_231
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a54c28a2d80445ca04c00dd617aecc
+      internalID: -2057318160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22d6e2c6e6a64425a66d9d38ffc1cdd
+      internalID: 2025769011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - SpaceShipsSprites - ALL ANGLES_233
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 690
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d017ad06abbc64f7fb42d1c3e867952a
+      internalID: -1063962074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8010694e1afa8485e928b14d1bc397a9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Galaga - SpaceShipsSprites - ALL ANGLES_0: 7416585812820976116
+      Galaga - SpaceShipsSprites - ALL ANGLES_1: 2108317597041455154
+      Galaga - SpaceShipsSprites - ALL ANGLES_10: -8343966664101062656
+      Galaga - SpaceShipsSprites - ALL ANGLES_100: -6150061339225524765
+      Galaga - SpaceShipsSprites - ALL ANGLES_101: -7464147719068058399
+      Galaga - SpaceShipsSprites - ALL ANGLES_102: -707632510720274480
+      Galaga - SpaceShipsSprites - ALL ANGLES_103: 26394653852116162
+      Galaga - SpaceShipsSprites - ALL ANGLES_104: 5086552022506317680
+      Galaga - SpaceShipsSprites - ALL ANGLES_105: 2931940780313576802
+      Galaga - SpaceShipsSprites - ALL ANGLES_106: -1330086380702066493
+      Galaga - SpaceShipsSprites - ALL ANGLES_107: -3246615951595946052
+      Galaga - SpaceShipsSprites - ALL ANGLES_108: -6910490981837426698
+      Galaga - SpaceShipsSprites - ALL ANGLES_109: -5335082726998967047
+      Galaga - SpaceShipsSprites - ALL ANGLES_11: 6247733974608003779
+      Galaga - SpaceShipsSprites - ALL ANGLES_110: 327535998666474165
+      Galaga - SpaceShipsSprites - ALL ANGLES_111: -9033742603578030904
+      Galaga - SpaceShipsSprites - ALL ANGLES_112: -7544823552216386070
+      Galaga - SpaceShipsSprites - ALL ANGLES_113: 2236013297693629773
+      Galaga - SpaceShipsSprites - ALL ANGLES_114: 5535225485783755240
+      Galaga - SpaceShipsSprites - ALL ANGLES_115: 5405981542108580820
+      Galaga - SpaceShipsSprites - ALL ANGLES_116: -8911236510530686090
+      Galaga - SpaceShipsSprites - ALL ANGLES_117: 6035289809023261794
+      Galaga - SpaceShipsSprites - ALL ANGLES_118: -8200845318120606370
+      Galaga - SpaceShipsSprites - ALL ANGLES_119: 1822132781026155489
+      Galaga - SpaceShipsSprites - ALL ANGLES_12: 6469367682689551716
+      Galaga - SpaceShipsSprites - ALL ANGLES_120: -3299961462526431275
+      Galaga - SpaceShipsSprites - ALL ANGLES_121: 1720874998370942547
+      Galaga - SpaceShipsSprites - ALL ANGLES_122: 873615139968648226
+      Galaga - SpaceShipsSprites - ALL ANGLES_123: -4329229140677647459
+      Galaga - SpaceShipsSprites - ALL ANGLES_124: 4614946032678743016
+      Galaga - SpaceShipsSprites - ALL ANGLES_125: 5685404444526585485
+      Galaga - SpaceShipsSprites - ALL ANGLES_126: 8594057086411118739
+      Galaga - SpaceShipsSprites - ALL ANGLES_127: 705213827949036283
+      Galaga - SpaceShipsSprites - ALL ANGLES_128: -6731295711936295124
+      Galaga - SpaceShipsSprites - ALL ANGLES_129: 6284605689644835374
+      Galaga - SpaceShipsSprites - ALL ANGLES_13: 5320253908625313044
+      Galaga - SpaceShipsSprites - ALL ANGLES_130: -1703103120253563241
+      Galaga - SpaceShipsSprites - ALL ANGLES_131: -3569928770634946559
+      Galaga - SpaceShipsSprites - ALL ANGLES_132: -2736190559406078673
+      Galaga - SpaceShipsSprites - ALL ANGLES_133: -6084900920492840550
+      Galaga - SpaceShipsSprites - ALL ANGLES_134: 1303928240791052847
+      Galaga - SpaceShipsSprites - ALL ANGLES_135: 6175989022422121443
+      Galaga - SpaceShipsSprites - ALL ANGLES_136: -8957524267303943840
+      Galaga - SpaceShipsSprites - ALL ANGLES_137: 5652456469324509700
+      Galaga - SpaceShipsSprites - ALL ANGLES_138: -4550723827579217343
+      Galaga - SpaceShipsSprites - ALL ANGLES_139: -960013875160542239
+      Galaga - SpaceShipsSprites - ALL ANGLES_14: 5279619464432126587
+      Galaga - SpaceShipsSprites - ALL ANGLES_140: -4482776928425693880
+      Galaga - SpaceShipsSprites - ALL ANGLES_141: 6043304612911654221
+      Galaga - SpaceShipsSprites - ALL ANGLES_142: -1544997338828551547
+      Galaga - SpaceShipsSprites - ALL ANGLES_143: -2515913960407831099
+      Galaga - SpaceShipsSprites - ALL ANGLES_144: 1607643625580258176
+      Galaga - SpaceShipsSprites - ALL ANGLES_145: 1916195897610724757
+      Galaga - SpaceShipsSprites - ALL ANGLES_146: 8666567978908774421
+      Galaga - SpaceShipsSprites - ALL ANGLES_147: -1962975521935830881
+      Galaga - SpaceShipsSprites - ALL ANGLES_148: -8663231922473628347
+      Galaga - SpaceShipsSprites - ALL ANGLES_149: -3290478916959987895
+      Galaga - SpaceShipsSprites - ALL ANGLES_15: -1899567392370262101
+      Galaga - SpaceShipsSprites - ALL ANGLES_150: 3941788804786420515
+      Galaga - SpaceShipsSprites - ALL ANGLES_151: 384268647176686861
+      Galaga - SpaceShipsSprites - ALL ANGLES_152: -3953293003575373630
+      Galaga - SpaceShipsSprites - ALL ANGLES_153: -4309002986790582697
+      Galaga - SpaceShipsSprites - ALL ANGLES_154: -6188063099766843740
+      Galaga - SpaceShipsSprites - ALL ANGLES_155: -2113544586443283675
+      Galaga - SpaceShipsSprites - ALL ANGLES_156: -3771771652765839663
+      Galaga - SpaceShipsSprites - ALL ANGLES_157: -2394812617351133354
+      Galaga - SpaceShipsSprites - ALL ANGLES_158: 4441286011401919723
+      Galaga - SpaceShipsSprites - ALL ANGLES_159: -2885548482450304226
+      Galaga - SpaceShipsSprites - ALL ANGLES_16: 1719336455697361854
+      Galaga - SpaceShipsSprites - ALL ANGLES_160: -3049475611107430490
+      Galaga - SpaceShipsSprites - ALL ANGLES_161: -3183833979087920026
+      Galaga - SpaceShipsSprites - ALL ANGLES_162: 3717215502446969184
+      Galaga - SpaceShipsSprites - ALL ANGLES_163: 6021654058349401646
+      Galaga - SpaceShipsSprites - ALL ANGLES_164: -3806971524246166078
+      Galaga - SpaceShipsSprites - ALL ANGLES_165: 6319606872161705234
+      Galaga - SpaceShipsSprites - ALL ANGLES_166: 7288940192709065869
+      Galaga - SpaceShipsSprites - ALL ANGLES_167: -5331189309779221330
+      Galaga - SpaceShipsSprites - ALL ANGLES_168: 2107409711301138092
+      Galaga - SpaceShipsSprites - ALL ANGLES_169: 7329273240470782288
+      Galaga - SpaceShipsSprites - ALL ANGLES_17: -7821129014092283800
+      Galaga - SpaceShipsSprites - ALL ANGLES_170: -7500043495761407234
+      Galaga - SpaceShipsSprites - ALL ANGLES_171: -6904933363555250916
+      Galaga - SpaceShipsSprites - ALL ANGLES_172: -3193583119708133695
+      Galaga - SpaceShipsSprites - ALL ANGLES_173: -468280068842627115
+      Galaga - SpaceShipsSprites - ALL ANGLES_174: -4676344869907314811
+      Galaga - SpaceShipsSprites - ALL ANGLES_175: -3102402477531649680
+      Galaga - SpaceShipsSprites - ALL ANGLES_176: -1418152273014047415
+      Galaga - SpaceShipsSprites - ALL ANGLES_177: -8910329085987440606
+      Galaga - SpaceShipsSprites - ALL ANGLES_178: 7806825246171655397
+      Galaga - SpaceShipsSprites - ALL ANGLES_179: -3413460419129861267
+      Galaga - SpaceShipsSprites - ALL ANGLES_18: 6764934707358438067
+      Galaga - SpaceShipsSprites - ALL ANGLES_180: -8715952353477657472
+      Galaga - SpaceShipsSprites - ALL ANGLES_181: -428602328986916600
+      Galaga - SpaceShipsSprites - ALL ANGLES_182: -7455782280037139527
+      Galaga - SpaceShipsSprites - ALL ANGLES_183: 5504827544517815226
+      Galaga - SpaceShipsSprites - ALL ANGLES_184: -313107494667385235
+      Galaga - SpaceShipsSprites - ALL ANGLES_185: 6023965195641296428
+      Galaga - SpaceShipsSprites - ALL ANGLES_186: -713216965972488259
+      Galaga - SpaceShipsSprites - ALL ANGLES_187: -3319836138670209731
+      Galaga - SpaceShipsSprites - ALL ANGLES_188: -8527654319584812267
+      Galaga - SpaceShipsSprites - ALL ANGLES_189: 2461780130599962851
+      Galaga - SpaceShipsSprites - ALL ANGLES_19: 2140143888392361346
+      Galaga - SpaceShipsSprites - ALL ANGLES_190: -8378375041479380700
+      Galaga - SpaceShipsSprites - ALL ANGLES_191: -5143272105019471928
+      Galaga - SpaceShipsSprites - ALL ANGLES_192: -1480558990872468027
+      Galaga - SpaceShipsSprites - ALL ANGLES_193: -7448017744796235073
+      Galaga - SpaceShipsSprites - ALL ANGLES_194: 4605836739354808210
+      Galaga - SpaceShipsSprites - ALL ANGLES_195: -4048116424340024763
+      Galaga - SpaceShipsSprites - ALL ANGLES_196: -7230928291167717229
+      Galaga - SpaceShipsSprites - ALL ANGLES_197: 3856268718268239844
+      Galaga - SpaceShipsSprites - ALL ANGLES_198: -3277711060694041854
+      Galaga - SpaceShipsSprites - ALL ANGLES_199: 9120695541661562675
+      Galaga - SpaceShipsSprites - ALL ANGLES_2: 5996452511726079835
+      Galaga - SpaceShipsSprites - ALL ANGLES_20: 8197081507861962699
+      Galaga - SpaceShipsSprites - ALL ANGLES_200: -2913050357746075256
+      Galaga - SpaceShipsSprites - ALL ANGLES_201: 2318269814267788576
+      Galaga - SpaceShipsSprites - ALL ANGLES_202: -2002863967656710239
+      Galaga - SpaceShipsSprites - ALL ANGLES_203: 3416441019641482050
+      Galaga - SpaceShipsSprites - ALL ANGLES_204: -6620949045415983884
+      Galaga - SpaceShipsSprites - ALL ANGLES_205: 3617681976484528337
+      Galaga - SpaceShipsSprites - ALL ANGLES_206: -4110395943573614163
+      Galaga - SpaceShipsSprites - ALL ANGLES_207: -6921066999472634966
+      Galaga - SpaceShipsSprites - ALL ANGLES_208: -535273327425287274
+      Galaga - SpaceShipsSprites - ALL ANGLES_209: -5230093122329262808
+      Galaga - SpaceShipsSprites - ALL ANGLES_21: 4728048922445884567
+      Galaga - SpaceShipsSprites - ALL ANGLES_210: -3958027710588283383
+      Galaga - SpaceShipsSprites - ALL ANGLES_211: 408321920481646449
+      Galaga - SpaceShipsSprites - ALL ANGLES_212: -6233651438557655402
+      Galaga - SpaceShipsSprites - ALL ANGLES_213: 4192261039815231065
+      Galaga - SpaceShipsSprites - ALL ANGLES_214: 4079657572215497362
+      Galaga - SpaceShipsSprites - ALL ANGLES_215: -5828943247720885203
+      Galaga - SpaceShipsSprites - ALL ANGLES_216: 5924973283222361750
+      Galaga - SpaceShipsSprites - ALL ANGLES_217: 8864985362533580743
+      Galaga - SpaceShipsSprites - ALL ANGLES_218: 8201130463361059119
+      Galaga - SpaceShipsSprites - ALL ANGLES_219: -5888871194124499920
+      Galaga - SpaceShipsSprites - ALL ANGLES_22: 7393249686260038367
+      Galaga - SpaceShipsSprites - ALL ANGLES_220: -73857263
+      Galaga - SpaceShipsSprites - ALL ANGLES_221: 168563720
+      Galaga - SpaceShipsSprites - ALL ANGLES_222: 1427401075
+      Galaga - SpaceShipsSprites - ALL ANGLES_223: -1614440607
+      Galaga - SpaceShipsSprites - ALL ANGLES_224: -658579299
+      Galaga - SpaceShipsSprites - ALL ANGLES_225: 249018053
+      Galaga - SpaceShipsSprites - ALL ANGLES_226: 867374895
+      Galaga - SpaceShipsSprites - ALL ANGLES_227: 107301667
+      Galaga - SpaceShipsSprites - ALL ANGLES_228: 205178110
+      Galaga - SpaceShipsSprites - ALL ANGLES_229: 1034933047
+      Galaga - SpaceShipsSprites - ALL ANGLES_23: -6577470435262017039
+      Galaga - SpaceShipsSprites - ALL ANGLES_230: 1498940142
+      Galaga - SpaceShipsSprites - ALL ANGLES_231: -2057318160
+      Galaga - SpaceShipsSprites - ALL ANGLES_232: 2025769011
+      Galaga - SpaceShipsSprites - ALL ANGLES_233: -1063962074
+      Galaga - SpaceShipsSprites - ALL ANGLES_24: -2777679314077179532
+      Galaga - SpaceShipsSprites - ALL ANGLES_25: 7175358508157083590
+      Galaga - SpaceShipsSprites - ALL ANGLES_26: -5319890441151046168
+      Galaga - SpaceShipsSprites - ALL ANGLES_27: -652710940258644420
+      Galaga - SpaceShipsSprites - ALL ANGLES_28: -4149967475264354916
+      Galaga - SpaceShipsSprites - ALL ANGLES_29: -7490848029879305696
+      Galaga - SpaceShipsSprites - ALL ANGLES_3: -1272436530214667641
+      Galaga - SpaceShipsSprites - ALL ANGLES_30: 5394693757726025687
+      Galaga - SpaceShipsSprites - ALL ANGLES_31: 671507601509907447
+      Galaga - SpaceShipsSprites - ALL ANGLES_32: 8776777322496158098
+      Galaga - SpaceShipsSprites - ALL ANGLES_33: 4480201885608286372
+      Galaga - SpaceShipsSprites - ALL ANGLES_34: 6873183077000170351
+      Galaga - SpaceShipsSprites - ALL ANGLES_35: 9192519030349744009
+      Galaga - SpaceShipsSprites - ALL ANGLES_36: -8086862477753658414
+      Galaga - SpaceShipsSprites - ALL ANGLES_37: 8850722352241125109
+      Galaga - SpaceShipsSprites - ALL ANGLES_38: -8898249286326652911
+      Galaga - SpaceShipsSprites - ALL ANGLES_39: -4286213784025956654
+      Galaga - SpaceShipsSprites - ALL ANGLES_4: -3722944083694822114
+      Galaga - SpaceShipsSprites - ALL ANGLES_40: -5659017121918655376
+      Galaga - SpaceShipsSprites - ALL ANGLES_41: -333274884116039192
+      Galaga - SpaceShipsSprites - ALL ANGLES_42: 2748463610333766305
+      Galaga - SpaceShipsSprites - ALL ANGLES_43: 5210837741622000163
+      Galaga - SpaceShipsSprites - ALL ANGLES_44: 6823282450034676811
+      Galaga - SpaceShipsSprites - ALL ANGLES_45: 8105595686564087702
+      Galaga - SpaceShipsSprites - ALL ANGLES_46: 5753795166792528338
+      Galaga - SpaceShipsSprites - ALL ANGLES_47: -7438040759429915678
+      Galaga - SpaceShipsSprites - ALL ANGLES_48: 8074650014629847088
+      Galaga - SpaceShipsSprites - ALL ANGLES_49: 8798860798714268906
+      Galaga - SpaceShipsSprites - ALL ANGLES_5: -586503771197486257
+      Galaga - SpaceShipsSprites - ALL ANGLES_50: -6006028283470692348
+      Galaga - SpaceShipsSprites - ALL ANGLES_51: -4207419683770026170
+      Galaga - SpaceShipsSprites - ALL ANGLES_52: -3789266278320046601
+      Galaga - SpaceShipsSprites - ALL ANGLES_53: -4178609534912352637
+      Galaga - SpaceShipsSprites - ALL ANGLES_54: -278511502188087890
+      Galaga - SpaceShipsSprites - ALL ANGLES_55: -8333075012967698355
+      Galaga - SpaceShipsSprites - ALL ANGLES_56: 7349470986800168425
+      Galaga - SpaceShipsSprites - ALL ANGLES_57: -3850569231503613558
+      Galaga - SpaceShipsSprites - ALL ANGLES_58: 2482568100435932562
+      Galaga - SpaceShipsSprites - ALL ANGLES_59: -283195522334181869
+      Galaga - SpaceShipsSprites - ALL ANGLES_6: 3956774851038638866
+      Galaga - SpaceShipsSprites - ALL ANGLES_60: 4025053051991718194
+      Galaga - SpaceShipsSprites - ALL ANGLES_61: -414705959339400228
+      Galaga - SpaceShipsSprites - ALL ANGLES_62: 3292867102464485023
+      Galaga - SpaceShipsSprites - ALL ANGLES_63: 5901314661662418289
+      Galaga - SpaceShipsSprites - ALL ANGLES_64: 7754940266904622481
+      Galaga - SpaceShipsSprites - ALL ANGLES_65: 7274685160359355871
+      Galaga - SpaceShipsSprites - ALL ANGLES_66: -1767125401902096985
+      Galaga - SpaceShipsSprites - ALL ANGLES_67: -5774475526816517110
+      Galaga - SpaceShipsSprites - ALL ANGLES_68: 6651450146963265353
+      Galaga - SpaceShipsSprites - ALL ANGLES_69: -6198744752890970967
+      Galaga - SpaceShipsSprites - ALL ANGLES_7: 48496951991213982
+      Galaga - SpaceShipsSprites - ALL ANGLES_70: 4346002051176988735
+      Galaga - SpaceShipsSprites - ALL ANGLES_71: -1894230966797293922
+      Galaga - SpaceShipsSprites - ALL ANGLES_72: 7177427779760212793
+      Galaga - SpaceShipsSprites - ALL ANGLES_73: -8660516700117951450
+      Galaga - SpaceShipsSprites - ALL ANGLES_74: -3394532795247296074
+      Galaga - SpaceShipsSprites - ALL ANGLES_75: 4928747094491635338
+      Galaga - SpaceShipsSprites - ALL ANGLES_76: 8923778666842365877
+      Galaga - SpaceShipsSprites - ALL ANGLES_77: -986315022077011934
+      Galaga - SpaceShipsSprites - ALL ANGLES_78: -5087791804426287013
+      Galaga - SpaceShipsSprites - ALL ANGLES_79: -3345785196904894221
+      Galaga - SpaceShipsSprites - ALL ANGLES_8: -6712372571077660887
+      Galaga - SpaceShipsSprites - ALL ANGLES_80: 1323767544793969400
+      Galaga - SpaceShipsSprites - ALL ANGLES_81: -2936196478747692097
+      Galaga - SpaceShipsSprites - ALL ANGLES_82: 5228924402445824391
+      Galaga - SpaceShipsSprites - ALL ANGLES_83: 2267965125358753434
+      Galaga - SpaceShipsSprites - ALL ANGLES_84: 6563656425190406029
+      Galaga - SpaceShipsSprites - ALL ANGLES_85: 8904642204530539953
+      Galaga - SpaceShipsSprites - ALL ANGLES_86: 2781535157184345312
+      Galaga - SpaceShipsSprites - ALL ANGLES_87: -293934466780976969
+      Galaga - SpaceShipsSprites - ALL ANGLES_88: -5863157638921131473
+      Galaga - SpaceShipsSprites - ALL ANGLES_89: 9108934289514958602
+      Galaga - SpaceShipsSprites - ALL ANGLES_9: 3192575504658314697
+      Galaga - SpaceShipsSprites - ALL ANGLES_90: -126754880641787971
+      Galaga - SpaceShipsSprites - ALL ANGLES_91: 4098923887587174255
+      Galaga - SpaceShipsSprites - ALL ANGLES_92: -2196464313002022336
+      Galaga - SpaceShipsSprites - ALL ANGLES_93: -1371895688600189925
+      Galaga - SpaceShipsSprites - ALL ANGLES_94: -5096838069544034539
+      Galaga - SpaceShipsSprites - ALL ANGLES_95: -2181843166347848836
+      Galaga - SpaceShipsSprites - ALL ANGLES_96: 6266076595752295307
+      Galaga - SpaceShipsSprites - ALL ANGLES_97: 873359603159895781
+      Galaga - SpaceShipsSprites - ALL ANGLES_98: -8578302933008323481
+      Galaga - SpaceShipsSprites - ALL ANGLES_99: 1447619909405667986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

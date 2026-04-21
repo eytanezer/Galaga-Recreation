@@ -1,0 +1,1223 @@
+fileFormatVersion: 2
+guid: 95de5b4116f604751a9db260d4a32545
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5824392435690632740
+    second: Galaga - Letters - white_0
+  - first:
+      213: -4417521866066184474
+    second: Galaga - Letters - white_1
+  - first:
+      213: 5009402539897938887
+    second: Galaga - Letters - white_2
+  - first:
+      213: -1313032683033464340
+    second: Galaga - Letters - white_3
+  - first:
+      213: 3021711950959825379
+    second: Galaga - Letters - white_4
+  - first:
+      213: 6808018681967303333
+    second: Galaga - Letters - white_5
+  - first:
+      213: 5706431821168957422
+    second: Galaga - Letters - white_6
+  - first:
+      213: 8262324805685249720
+    second: Galaga - Letters - white_7
+  - first:
+      213: 219199937925805884
+    second: Galaga - Letters - white_8
+  - first:
+      213: 6441734400669286101
+    second: Galaga - Letters - white_9
+  - first:
+      213: 6707961093239596536
+    second: Galaga - Letters - white_10
+  - first:
+      213: 7207931259358040420
+    second: Galaga - Letters - white_11
+  - first:
+      213: 5462616344329424050
+    second: Galaga - Letters - white_12
+  - first:
+      213: -7170420790921062758
+    second: Galaga - Letters - white_13
+  - first:
+      213: 7071264830099251648
+    second: Galaga - Letters - white_14
+  - first:
+      213: -5952085774312367598
+    second: Galaga - Letters - white_15
+  - first:
+      213: -59675412444436697
+    second: Galaga - Letters - white_16
+  - first:
+      213: 5791512452445577536
+    second: Galaga - Letters - white_17
+  - first:
+      213: 4361651675651624841
+    second: Galaga - Letters - white_18
+  - first:
+      213: 6386771135018009035
+    second: Galaga - Letters - white_19
+  - first:
+      213: -3112409747509852642
+    second: Galaga - Letters - white_20
+  - first:
+      213: 1013089687303152002
+    second: Galaga - Letters - white_21
+  - first:
+      213: -797508870905539370
+    second: Galaga - Letters - white_22
+  - first:
+      213: -8511150304545696862
+    second: Galaga - Letters - white_23
+  - first:
+      213: -6547140348933312755
+    second: Galaga - Letters - white_24
+  - first:
+      213: -6170686137349332851
+    second: Galaga - Letters - white_25
+  - first:
+      213: -1597829259348208745
+    second: Galaga - Letters - white_26
+  - first:
+      213: 7690843460791697282
+    second: Galaga - Letters - white_27
+  - first:
+      213: 7390578652195969487
+    second: Galaga - Letters - white_28
+  - first:
+      213: 7006992646447528345
+    second: Galaga - Letters - white_29
+  - first:
+      213: 7656750900747554672
+    second: Galaga - Letters - white_30
+  - first:
+      213: 1442083253895206777
+    second: Galaga - Letters - white_31
+  - first:
+      213: -8328901933052635098
+    second: Galaga - Letters - white_32
+  - first:
+      213: 6773731255893800966
+    second: Galaga - Letters - white_33
+  - first:
+      213: 4986819590825915429
+    second: Galaga - Letters - white_34
+  - first:
+      213: 5540258808055270517
+    second: Galaga - Letters - white_35
+  - first:
+      213: 6262125389995317456
+    second: Galaga - Letters - white_36
+  - first:
+      213: 5292171815495191260
+    second: Galaga - Letters - white_37
+  - first:
+      213: -2536908787401459164
+    second: Galaga - Letters - white_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 166
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaga - Letters - white_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426ffc1bf0664d050800000000000000
+      internalID: 5824392435690632740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6ba91944fc1b2c0800000000000000
+      internalID: -4417521866066184474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c36e8fa119f48540800000000000000
+      internalID: 5009402539897938887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1ff454bbb27cde0800000000000000
+      internalID: -1313032683033464340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1538a72074fe920800000000000000
+      internalID: 3021711950959825379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa52eabbe0fa7e50800000000000000
+      internalID: 6808018681967303333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7d2c3e181513f40800000000000000
+      internalID: 5706431821168957422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b684c592aca9a270800000000000000
+      internalID: 8262324805685249720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37fad2ae21ca0300800000000000000
+      internalID: 219199937925805884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de7e41ce43a56950800000000000000
+      internalID: 6441734400669286101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5efa1f217771d50800000000000000
+      internalID: 6707961093239596536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46158778a47b70460800000000000000
+      internalID: 7207931259358040420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc8ffb7f9c1fcb40800000000000000
+      internalID: 5462616344329424050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96131bf74c8d7c90800000000000000
+      internalID: -7170420790921062758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c167c6d5ed222260800000000000000
+      internalID: 7071264830099251648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a94751681f56da0800000000000000
+      internalID: -5952085774312367598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727ac6f478dfb2ff0800000000000000
+      internalID: -59675412444436697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041254804e59f5050800000000000000
+      internalID: 5791512452445577536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fc3390713b78c30800000000000000
+      internalID: 4361651675651624841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1877c328e52a850800000000000000
+      internalID: 6386771135018009035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 826
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16463c23df7ec4d0800000000000000
+      internalID: -3112409747509852642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281e059f3b73f0e00800000000000000
+      internalID: 1013089687303152002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4d37448edaee4f0800000000000000
+      internalID: -797508870905539370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3989b54e152e980800000000000000
+      internalID: -8511150304545696862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fe3377a82e325a0800000000000000
+      internalID: -6547140348933312755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80addad6a15d5aa0800000000000000
+      internalID: -6170686137349332851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79313d811ce53d9e0800000000000000
+      internalID: -1597829259348208745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fff97316d5bba60800000000000000
+      internalID: 7690843460791697282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9d9b0902c909660800000000000000
+      internalID: 7390578652195969487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9997743ffa6dd3160800000000000000
+      internalID: 7006992646447528345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fc5b4806e324a60800000000000000
+      internalID: 7656750900747554672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97796f4341f430410800000000000000
+      internalID: 1442083253895206777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628555ff1dbc96c80800000000000000
+      internalID: -8328901933052635098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608b28f30b0210e50800000000000000
+      internalID: 6773731255893800966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524332e1ffdb43540800000000000000
+      internalID: 4986819590825915429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c0dd94804f2ec40800000000000000
+      internalID: 5540258808055270517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d810a13dd987e650800000000000000
+      internalID: 6262125389995317456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdacce02a32917940800000000000000
+      internalID: 5292171815495191260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a7e5326e61bccd0800000000000000
+      internalID: -2536908787401459164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4aed81aac6a4c10aaa0cfec0e5adb7
+      internalID: -1744146176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_40
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d8d0e80448e4e939ff4e269fa8c650
+      internalID: -905359571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65933cc9c59cd437d83d4d39d07cf448
+      internalID: -763500506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaga - Letters - white_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e921abee309844c4e8433c61a8f53636
+      internalID: -1127135223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7074364482e6d41998fb7ca3869167b9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Galaga - Letters - white_0: 5824392435690632740
+      Galaga - Letters - white_1: -4417521866066184474
+      Galaga - Letters - white_10: 6707961093239596536
+      Galaga - Letters - white_11: 7207931259358040420
+      Galaga - Letters - white_12: 5462616344329424050
+      Galaga - Letters - white_13: -7170420790921062758
+      Galaga - Letters - white_14: 7071264830099251648
+      Galaga - Letters - white_15: -5952085774312367598
+      Galaga - Letters - white_16: -59675412444436697
+      Galaga - Letters - white_17: 5791512452445577536
+      Galaga - Letters - white_18: 4361651675651624841
+      Galaga - Letters - white_19: 6386771135018009035
+      Galaga - Letters - white_2: 5009402539897938887
+      Galaga - Letters - white_20: -3112409747509852642
+      Galaga - Letters - white_21: 1013089687303152002
+      Galaga - Letters - white_22: -797508870905539370
+      Galaga - Letters - white_23: -8511150304545696862
+      Galaga - Letters - white_24: -6547140348933312755
+      Galaga - Letters - white_25: -6170686137349332851
+      Galaga - Letters - white_26: -1597829259348208745
+      Galaga - Letters - white_27: 7690843460791697282
+      Galaga - Letters - white_28: 7390578652195969487
+      Galaga - Letters - white_29: 7006992646447528345
+      Galaga - Letters - white_3: -1313032683033464340
+      Galaga - Letters - white_30: 7656750900747554672
+      Galaga - Letters - white_31: 1442083253895206777
+      Galaga - Letters - white_32: -8328901933052635098
+      Galaga - Letters - white_33: 6773731255893800966
+      Galaga - Letters - white_34: 4986819590825915429
+      Galaga - Letters - white_35: 5540258808055270517
+      Galaga - Letters - white_36: 6262125389995317456
+      Galaga - Letters - white_37: 5292171815495191260
+      Galaga - Letters - white_38: -2536908787401459164
+      Galaga - Letters - white_39: -1744146176
+      Galaga - Letters - white_4: 3021711950959825379
+      Galaga - Letters - white_40: -905359571
+      Galaga - Letters - white_41: -763500506
+      Galaga - Letters - white_42: -1127135223
+      Galaga - Letters - white_5: 6808018681967303333
+      Galaga - Letters - white_6: 5706431821168957422
+      Galaga - Letters - white_7: 8262324805685249720
+      Galaga - Letters - white_8: 219199937925805884
+      Galaga - Letters - white_9: 6441734400669286101
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

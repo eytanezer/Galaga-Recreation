@@ -1,0 +1,133 @@
+.
+|____UIScripts.meta
+|____PlayerScriptes.meta
+|____Bullets
+| |____PlayerBullet
+| | |____PlayerBullet.cs
+| | |____PlayerBulletPool.cs.meta
+| | |____PlayerBulletSpawner.cs.meta
+| | |____PlayerBullet.cs.meta
+| | |____PlayerBulletPool.cs
+| | |____PlayerBulletSpawner.cs
+| |____PlayerBullet.meta
+| |____Bullet.cs.meta
+| |____EnemyBullet.meta
+| |____EnemyBullet
+| | |____EnemyBullet.cs
+| | |____EnemyBulletPool.cs.meta
+| | |____EnemyBulletSpawner.cs
+| | |____EnemyBulletPool.cs
+| | |____EnemyBullet.cs.meta
+| | |____EnemyBulletSpawner.cs.meta
+| |____Bullet.cs
+|____ScriptTree.txt
+|____.DS_Store
+|____Manegment.meta
+|____EnemiesScripts
+| |____EnemiesAnimationScripts.meta
+| |____EnemiesCombat.meta
+| |____DanceManager.cs.meta
+| |____EnemiesCombat
+| | |____EnemyCombat.cs
+| | |____EnemyCombat.cs.meta
+| |____StateHandeling.meta
+| |____StateHandeling
+| | |____Interfaces.meta
+| | |____States.meta
+| | |____States
+| | | |____MovementStateMachine.cs.meta
+| | | |____EnemyDanceState.cs
+| | | |____EnemyDanceState.cs.meta
+| | | |____EnemyIdleState.cs.meta
+| | | |____EnemyDiveState.cs
+| | | |____EnemyWaitState.cs
+| | | |____MovementStateMachine.cs
+| | | |____EnemyDiveState.cs.meta
+| | | |____EnemyIdleState.cs
+| | | |____EnemyEntranceState.cs
+| | | |____EnemyEntranceState.cs.meta
+| | | |____EnemyWaitState.cs.meta
+| | |____MovementData.cs.meta
+| | |____MovementData.cs
+| | |____Interfaces
+| | | |____IMovementState.cs
+| | | |____IMovementState.cs.meta
+| | | |____IMovementStateContext.cs.meta
+| | | |____IMovementStateMachine.cs.meta
+| | | |____IMovementStateContext.cs
+| | | |____IMovementStateMachine.cs
+| |____EnemyController.cs.meta
+| |____DanceManager.cs
+| |____DiveManager.cs
+| |____EnemiesAnimationScripts
+| | |____SpriteAngleResolver.cs
+| | |____SpriteAngleResolver.cs.meta
+| | |____SpriteAngleSet.cs
+| | |____SpriteFlapper.cs.meta
+| | |____SpriteFlapper.cs
+| | |____SpriteAngleSet.cs.meta
+| |____DiveManager.cs.meta
+| |____EnemyController.cs
+|____EnemiesScripts.meta
+|____Bullets.meta
+|____Manegment
+| |____MonoSingleton.cs
+| |____Cheats.cs
+| |____DefaultInputActions.cs.meta
+| |____GameManager.cs.meta
+| |____Foramtion.meta
+| |____ShootingStats.cs
+| |____PoolLogic
+| | |____SimplePool.cs
+| | |____SimplePool.cs.meta
+| | |____IPoolable.cs
+| | |____IPoolable.cs.meta
+| |____GameStateManager.cs.meta
+| |____BackgroundFader.cs.meta
+| |____BackgroundLooper.cs
+| |____GameStateManager.cs
+| |____ScoreManager.cs
+| |____Foramtion
+| | |____SquadData.cs
+| | |____SquadData.cs.meta
+| | |____FormationSlot.cs
+| | |____SquadSpawner.cs
+| | |____FormationSlot.cs.meta
+| | |____FormationManager.cs
+| | |____FormationManager.cs.meta
+| | |____SquadSpawner.cs.meta
+| |____Cheats.cs.meta
+| |____BackgroundFader.cs
+| |____SoundScripts
+| | |____SoundManager.cs
+| | |____AudioPool.cs
+| | |____AudioSourcePoolable.cs.meta
+| | |____SoundManager.cs.meta
+| | |____AudioPool.cs.meta
+| | |____AudioSourcePoolable.cs
+| |____ShootingStats.cs.meta
+| |____SoundScripts.meta
+| |____ScoreManager.cs.meta
+| |____BackgroundLooper.cs.meta
+| |____GameManager.cs
+| |____PoolLogic.meta
+| |____MonoSingleton.cs.meta
+| |____DefaultInputActions.cs
+|____PlayerScriptes
+| |____PlayerMovment.cs.meta
+| |____PlayerHealth.cs
+| |____PlayerHealth.cs.meta
+| |____PlayerHitHandler.cs.meta
+| |____PlayerMovment.cs
+| |____PlayerHitHandler.cs
+|____UIScripts
+| |____LifeBarUI.cs.meta
+| |____flashText.cs.meta
+| |____IntroSequencer.cs
+| |____ResultsScreen.cs.meta
+| |____ScoreUI.cs
+| |____ScoreUI.cs.meta
+| |____LifeBarUI.cs
+| |____flashText.cs
+| |____ResultsScreen.cs
+| |____IntroSequencer.cs.meta
